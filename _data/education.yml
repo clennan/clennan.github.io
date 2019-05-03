@@ -4,9 +4,9 @@
   #quote: >
     # .
   description: | # this will include new lines to allow paragraphs
-    The first half of the course was very formal with advanced math courses in measure theory and stochastics. In the second half I focussed on Machine Learning (ML), where I got exposed to a broad range of ML methods.
+    The first half of the course was very formal with advanced math courses in measure theory and stochastics. In the second half I focussed on <mark>machine learning</mark>, where I got exposed to a broad range of machine learning methods.
 
-    In my thesis I applied an attribution method to an image captioning neural network to better understand the network's inner workings. The thesis and all the code can be found (here)[https://github.com/clennan/image-captioning].
+    In my thesis I applied an attribution method to an image captioning <mark>neural network</mark> to better understand the network's inner workings. The thesis and all the code can be found on [GitHub](https://github.com/clennan/image-captioning).
 
 - name: University of Warwick, United Kingdom
   dates: 2007 - 2009
@@ -14,7 +14,7 @@
   #quote: >
     # .
   description: | # this will include new lines to allow paragraphs
-    At Warwick I focussed on Econometrics and Behavioural Economics. It was the first time I was exposed to more advanced linear algebra and that I started using R for regression analyses.
+    At Warwick I focussed on <mark>Econometrics</mark> and <mark>Behavioural Economics</mark>. It was the first time I was exposed to more advanced linear algebra and that I started using R for regression analyses.
 
     My thesis however was about game theory - I analysed the phenomenon in decision making of attaching greater importance to experienced information than observed information. The thesis won the best dissertation award which I was quite proud of :)
 
