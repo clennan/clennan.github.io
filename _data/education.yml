@@ -1,9 +1,21 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+- name: Humboldt-Universität zu Berlin, Germany
+  dates: 2013 - 2017
+  qualification: MSc Statistics
+  #quote: >
+    # .
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    .
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- name: University of Warwick, United Kingdom
+  dates: 2007 - 2009
+  qualification: MSc Economics
+  #quote: >
+    # .
+  description: | # this will include new lines to allow paragraphs
+    At Warwick I focussed on Econometrics and Behavioural Economics. It was the first time I was exposed to more advanced linear algebra and that I started using R for regression analyses.
+
+    My thesis however was more game theoretic - I analysed the phenomenon of attaching greater importance to experienced information than observed information in decision making. The thesis won the best dissertation award which I was quite proud of :)
+
+- name: University of Sunderland, United Kingdom
+  dates: 2004 - 2007
+  qualification: BA (Hons) Business Management
