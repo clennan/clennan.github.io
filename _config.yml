@@ -24,9 +24,9 @@ linkedin_username: christopher-lennan
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chris.
+  I am part of the data science team at [idealo.de](idealo.de) where we work on machine learning projects covering computer vision, NLP, and standard prediction models on tabular data.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 # Projects Section
 # projects_title: Projects
@@ -38,13 +38,12 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Talks
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - March 2019: Strata San Francisco, Using deep learning to automatically rank millions of hotel images
+   - March 2019: Data Festival 2019, Demystifying the neural network black box: An interactive session on understanding decisions made by Convolutional Neural Networks [[slides]](https://speakerdeck.com/tanujjain/demystifying-the-neural-network-black-box)[[code]](https://github.com/idealo/cnn-exposed)
+   - September 2018: PyParis 2018, Using Deep Learning to rank and tag millions of hotel images [[slides](http://pyparis.org/static/slides/Christopher+Lennan+Tanuj+Jain-475f1087.pdf)][[video]](https://youtu.be/WEWl4cD-y00)
+   - March 2018: code.talks commerce 2018, How we trained a bot to understand fashion requests [[video]](https://www.youtube.com/watch?v=WnRXgcr4rH4)
 
 # Footer
 footer_show_references: false
