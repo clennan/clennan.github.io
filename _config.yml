@@ -40,10 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Talks
 more_content: | # this will include new lines to allow paragraphs
-   - March 2019: **Strata Data San Francisco**, *Using deep learning to automatically rank millions of hotel images*
-   - March 2019: **Data Festival**, *Demystifying the neural network black box: An interactive session on understanding decisions made by Convolutional Neural Networks* [[slides](https://speakerdeck.com/tanujjain/demystifying-the-neural-network-black-box)][[code](https://github.com/idealo/cnn-exposed)]
-   - September 2018: **PyParis**, *Using Deep Learning to rank and tag millions of hotel images* [[slides](http://pyparis.org/static/slides/Christopher+Lennan+Tanuj+Jain-475f1087.pdf)][[video](https://youtu.be/WEWl4cD-y00)]
-   - March 2018: **code.talks commerce**, *How we trained a bot to understand fashion requests* [[video](https://www.youtube.com/watch?v=WnRXgcr4rH4)]
+   March 2019: **Strata Data Conference**, San Francisco, *Using deep learning to automatically rank millions of hotel images*
+   March 2019: **Data Festival**, Munich, *Demystifying the neural network black box: An interactive session on understanding decisions made by Convolutional Neural Networks* [[slides](https://speakerdeck.com/tanujjain/demystifying-the-neural-network-black-box)][[code](https://github.com/idealo/cnn-exposed)]
+   September 2018: **PyParis**, Paris, *Using Deep Learning to rank and tag millions of hotel images* [[slides](http://pyparis.org/static/slides/Christopher+Lennan+Tanuj+Jain-475f1087.pdf)][[video](https://youtu.be/WEWl4cD-y00)]
+   March 2018: **code.talks commerce**, Berlin, *How we trained a bot to understand fashion requests* [[video](https://www.youtube.com/watch?v=WnRXgcr4rH4)]
 
 # Footer
 footer_show_references: false
