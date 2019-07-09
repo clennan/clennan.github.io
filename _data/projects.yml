@@ -16,6 +16,14 @@
     We used Terraform in the background to handle cloud setup and destruction. For further details and examples see the project [documentation](https://idealo.github.io/imageatm/).
     
     
+- name: Image captioning
+  link: github.com/clennan/image-captioning
+  github: clennan/image-captioning
+  description: |
+   For  my  master thesis I implemented an image captioning neural network (paper)[https://arxiv.org/abs/1502.03044] and visualized the attention maps with Deep Taylor Decomposition (DTD).
+   The encoder (pre-trained CNN), decoder (RNN with LSTM cells), attention mechanism, and DTD modules are built in Python/TensorFlow.
+
+
 - name: CNN-exposed
   link: github.com/idealo/cnn-exposed
   github: idealo/cnn-exposed
