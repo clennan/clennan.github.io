@@ -7,12 +7,21 @@
 - transfer Machine Learning knowledge to other PAs
 - design image classification software package to allow other PAs to train their own models (https://github.com/idealo/imageatm)
 - supervise and educate trainees
-- present projects at conferences, e.g. PyData Paris, Strata San Francisco
+- present projects at conferences, e.g. PyData Paris, Strata San 
+
 
 - company: chatShopper GmbH
   link: chatShopper.com
   job_title: Machine Learning Engineer
   dates: Nov 2016 - Apr 2018
+  description: |
+- classifying fMRI data with SVMs using scikit-learn, PyMVPA, and libsvm
+- extensive experiments with CNNs and convolutional autoencoder for classifications and functional alignment of fMRI datasets using Python/TensorFlow
+
+
+- company: Max Planck Institute (MPI) for Human Development
+  job_title: Research assistant
+  dates: Mar 2015 - Oct 2016
   description: |
 - migrate NLP system from wit.ai to our own system
 - NLP system included intent and NER models, as well as logic to handle synonyms and typos
