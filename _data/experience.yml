@@ -15,10 +15,9 @@
   job_title: Machine Learning Engineer
   dates: Nov 2016 - Apr 2018
   description: |
-    We built a chatbot that allows to search and buy fashion products in a natural conversation setup. The bot is available on [Facebook messenger](https://m.me/ChatShopper).
-    The bot won multiple awards including the best e-commerce bot ([source](https://blog.botmakers.net/1st-chatbottle-awards-winners-are-instalocate-meekan-foxsy-bff-trump-chatshopper-techcrunch-508006f698fc)).
-    I was responsible for the following projects
-    
+    - We built a chatbot that allows to search and buy fashion products in a natural conversation setup. The bot is available on [Facebook messenger](https://m.me/ChatShopper).
+      The bot won multiple awards including the best e-commerce bot ([source](https://blog.botmakers.net/1st-chatbottle-awards-winners-are-instalocate-meekan-foxsy-bff-trump-chatshopper-techcrunch-508006f698fc)).
+      I was responsible for the following projects
     - migrate NLP system from wit.ai to our own system
     - NLP system included intent and NER models, as well as logic to handle synonyms and typos
     - build graph database (Neo4j)
