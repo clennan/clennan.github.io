@@ -19,9 +19,6 @@
     - NLP system included intent and NER models, as well as logic to handle synonyms and typos
     - build graph database (Neo4j)
     - train image classifiers to enrich the product catalogue 
-    - classifying fMRI data with SVMs using scikit-learn, PyMVPA, and libsvm
-    - extensive experiments with CNNs and convolutional autoencoder for classifications and functional alignment of fMRI datasets using Python/TensorFlow
-
 
 - company: Max Planck Institute (MPI) for Human Development
   job_title: Research assistant
