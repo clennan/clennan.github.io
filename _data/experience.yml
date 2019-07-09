@@ -2,7 +2,8 @@
   link: idealo.de
   job_title: Senior Data Scientist
   dates: May 2018 - Present
-  quote: > - design and productionize Machine Learning solutions for various PAs, e.g. image classification models to automate gallery services for Reise and Product Discovery, sales prediction models for CRM
+  description: |
+- design and productionize Machine Learning solutions for various PAs, e.g. image classification models to automate gallery services for Reise and Product Discovery, sales prediction models for CRM
 - transfer Machine Learning knowledge to other PAs
 - design image classification software package to allow other PAs to train their own models (https://github.com/idealo/imageatm)
 - supervise and educate trainees
