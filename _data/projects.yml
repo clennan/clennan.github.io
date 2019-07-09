@@ -14,3 +14,10 @@
     Image-ATM allows anyone to train an image classification CNN with one line of code. The package includes classes for data preparation, training, and evaluation. It also automates training in the cloud on GPU instances.
 
     We used Terraform in the background to handle cloud setup and destruction. For further details and examples see the project [documentation](https://idealo.github.io/imageatm/).
+    
+    
+- name: CNN-exposed
+  link: github.com/idealo/cnn-exposed
+  github: idealo/cnn-exposed
+  description: | # this will include new lines to allow paragraphs
+    Collection of various CNN attribution and visualization methods that we used across projects at idealo.de. We provide Colab notebooks with code examples for all methods.
