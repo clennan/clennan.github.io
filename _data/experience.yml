@@ -8,3 +8,13 @@
 - design image classification software package to allow other PAs to train their own models (https://github.com/idealo/imageatm)
 - supervise and educate trainees
 - present projects at conferences, e.g. PyData Paris, Strata San Francisco
+
+- company: chatShopper GmbH
+  link: chatShopper.com
+  job_title: Machine Learning Engineer
+  dates: Nov 2016 - Apr 2018
+  description: |
+- migrate NLP system from wit.ai to our own system
+- NLP system included intent and NER models, as well as logic to handle synonyms and typos
+- build graph database (Neo4j)
+- train image classifiers to enrich the product catalogue 
