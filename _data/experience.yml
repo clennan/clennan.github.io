@@ -25,21 +25,4 @@
     * train image classifiers to enrich the product catalogue
 
 
-- company: Max Planck Institute for Human Development
-  link: [mpg.de](https://www.mpg.de/149875/bildungsforschung)
-  job_title: Research assistant
-  dates: Mar 2015 - Oct 2016
-  description: |
-    * classifying fMRI data with SVMs using scikit-learn, PyMVPA, and libsvm
-    * extensive experiments with CNNs and convolutional autoencoder for classifications and functional alignment of fMRI datasets using Python/TensorFlow
-
-
-- company: Standard and Poor's
-  job_title: Ratings Specialist EMEA Asset Backed Securities
-  dates: Jun 2011 - Jul 2012
- 
- 
-- company: Deutsche Bank AG
-  job_title: Analyst Credit Risk Securitization
-  dates: Aug 2009 - May 2011
   
