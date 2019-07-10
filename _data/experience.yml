@@ -19,7 +19,7 @@
     The bot is available on [Facebook messenger](https://m.me/ChatShopper).
     The bot won multiple awards including the best e-commerce bot ([source](https://blog.botmakers.net/1st-chatbottle-awards-winners-are-instalocate-meekan-foxsy-bff-trump-chatshopper-techcrunch-508006f698fc)).
     I was responsible for the following projects
-    • migrate system from wit.ai to our own system
+    • migrate NLP system from wit.ai to our own system
     • NLP system included intent and NER models, as well as logic to handle synonyms and typos
     • build graph database (Neo4j)
     • train image classifiers to enrich the product catalogue
@@ -37,9 +37,8 @@
 - company: Standard and Poor's
   job_title: Ratings Specialist EMEA Asset Backed Securities
   dates: Jun 2011 - Jul 2012
- 
- 
+
+
 - company: Deutsche Bank AG
   job_title: Analyst Credit Risk Securitization
   dates: Aug 2009 - May 2011
-  

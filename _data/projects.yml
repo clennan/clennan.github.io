@@ -7,21 +7,21 @@
     I wrote about this project in more detail on [Medium](https://medium.com/idealo-tech-blog/using-deep-learning-to-automatically-rank-millions-of-hotel-images-c7e2d2e5cae2) and the [NVIDIA Developer Blog](https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/).
 
 
-- name: Image-ATM (Automated Tagging Machine)
+- name: Image-ATM
   link: github.com/idealo/imageatm
   github: idealo/imageatm
   description: | # this will include new lines to allow paragraphs
-    Image-ATM allows anyone to train an image classification CNN with one line of code. The package includes classes for data preparation, training, and evaluation. It also automates training in the cloud on GPU instances.
+    Image-ATM (Automated Tagging Machine) allows anyone to train an image classification CNN with one line of code. The package includes classes for data preparation, training, and evaluation. It also automates training in the cloud on GPU instances.
 
     We used Terraform in the background to handle cloud setup and destruction. For further details and examples see the project [documentation](https://idealo.github.io/imageatm/).
-    
-    
+
+
 - name: Image captioning
   link: github.com/clennan/image-captioning
   github: clennan/image-captioning
   description: |
-   For  my  master thesis I implemented an image captioning neural network (paper)[https://arxiv.org/abs/1502.03044] and visualized the attention maps with Deep Taylor Decomposition (DTD).
-   The encoder (pre-trained CNN), decoder (RNN with LSTM cells), attention mechanism, and DTD modules are built in Python/TensorFlow.
+   For  my  master thesis I implemented an image captioning neural network [link](https://arxiv.org/abs/1502.03044) and visualized the attention maps with Deep Taylor Decomposition (DTD).
+   The encoder (pre-trained CNN), decoder (RNN with LSTM cells), attention mechanism, and DTD modules are build in Python/TensorFlow.
 
 
 - name: CNN-exposed
