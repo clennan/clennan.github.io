@@ -3,11 +3,11 @@
   job_title: Senior Data Scientist
   dates: May 2018 - Present
   description: |
-    • design and productionize machine learning solutions for various PAs, e.g. image classification models to automate gallery services for Reise and Product Discovery, sales prediction models for CRM
-    • transfer machine learning knowledge to other PAs
-    • design image classification software package to allow other PAs to train their own models (https://github.com/idealo/imageatm)
-    • supervise and educate trainees
-    • present projects at conferences, e.g. PyData Paris, Strata San Francisco
+    * design and productionize machine learning solutions for various PAs, e.g. image classification models to automate gallery services for Reise and Product Discovery, sales prediction models for CRM
+    * transfer machine learning knowledge to other PAs
+    * design image classification software package to allow other PAs to train their own models (https://github.com/idealo/imageatm)
+    * supervise and educate trainees
+    * present projects at conferences, e.g. PyData Paris, Strata San Francisco
 
 
 - company: chatShopper GmbH
@@ -42,3 +42,7 @@
 - company: Deutsche Bank AG
   job_title: Analyst Credit Risk Securitization
   dates: Aug 2009 - May 2011
+    * migrate system from wit.ai to our own system
+    * NLP system included intent and NER models, as well as logic to handle synonyms and typos
+    * build graph database (Neo4j)
+    * train image classifiers to enrich the product catalogue
