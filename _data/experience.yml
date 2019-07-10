@@ -25,7 +25,7 @@
     * train image classifiers to enrich the product catalogue
 
 
-- company: Max Planck Institute (MPI) for Human Development
+- company: Max Planck Institute for Human Development
   link: https://www.mpg.de/149875/bildungsforschung
   job_title: Research assistant
   dates: Mar 2015 - Oct 2016
@@ -42,7 +42,3 @@
 - company: Deutsche Bank AG
   job_title: Analyst Credit Risk Securitization
   dates: Aug 2009 - May 2011
-    * migrate system from wit.ai to our own system
-    * NLP system included intent and NER models, as well as logic to handle synonyms and typos
-    * build graph database (Neo4j)
-    * train image classifiers to enrich the product catalogue
