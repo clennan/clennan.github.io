@@ -20,7 +20,7 @@
   link: github.com/clennan/image-captioning
   github: clennan/image-captioning
   description: |
-   For  my  master thesis I implemented an image captioning neural network [link](https://arxiv.org/abs/1502.03044) and visualized the attention maps with Deep Taylor Decomposition (DTD).
+   For  my  master thesis I implemented an image captioning neural network ([paper](https://arxiv.org/abs/1502.03044)) and visualized the attention maps with Deep Taylor Decomposition (DTD) to gain a better understanding of the inner workings of the system.
    The encoder (pre-trained CNN), decoder (RNN with LSTM cells), attention mechanism, and DTD modules are build in Python/TensorFlow.
 
 
