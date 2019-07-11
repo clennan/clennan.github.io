@@ -6,13 +6,13 @@
     Data Science is a central team at idealo.de that designs and productionizes machine learning solutions for product areas across the company. I have led the following projects
     * Automate the gallery service for hotel offers on [hotel.idealo.de](hotel.idealo.de). We annotated our own hotel dataset and trained CNNs to predict the aesthetic and technical quality of hotel images. The model was put into production and we scored 300+ million images. We open sourced the code and trained models on [Github](https://github.com/idealo/image-quality-assessment).
     * For the product discovery department we trained image classification models to automate the composition of product galleries for new products. In order to scale model training to hundreds of product categories we designed an image classification software package that allows to train a model with one line of code. The package includes data preparation, training (including cloud GPU training), and evaluation components such that any software developer at idealo can train and evaluate their own models. We open sourced the package under Image-ATM on [Github](https://github.com/idealo/imageatm).
-    * For the customer relationship department we trained tree based models to predict whether a user made a purchase or not (many users on idealo.de only do leadouts). We used Apache Airflow to generate overnight predictions that allow to target certain users the next day.
+    * For the customer relationship department we trained tree based models to predict whether a user made a purchase or not (after a leadout). We used Apache Airflow to generate overnight predictions that allow to target certain users the next day.
 
     Besides the development of machine learning solutions my tasks included
     * Transfer machine learning knowledge to other product areas.
     * Guide and support data science trainees.
     * Present projects at conferences, e.g. PyData Paris, Strata San Francisco, ML Meetup Berlin.
-
+  
 
 - company: chatShopper GmbH
   link: chatshopper.com
@@ -28,11 +28,11 @@
 
 
 - company: Max Planck Institute for Human Development
-  link: https://www.mpg.de/149875/bildungsforschung
+  link: mpg.de
   job_title: Research assistant
   dates: Mar 2015 - Oct 2016
   description: |
-    I was the programmer and machine learning assistant for two reserachers at the institute. Besides writing scripts for automation and descriptive data analyses I mainly trained machine learning models to predict cognitive states from voxel activations. This included
+    I was the software and machine learning assistant for two reserachers at the institute. Besides writing scripts for automation and descriptive data analyses I mainly trained machine learning models to predict cognitive states from voxel activations. This included
     * Classifying fMRI data with SVMs using scikit-learn, PyMVPA, and libsvm.
     * Extensive experiments with CNNs and convolutional autoencoders for classifications and functional alignment of fMRI datasets using Python/TensorFlow.
 
