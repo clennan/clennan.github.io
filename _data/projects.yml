@@ -2,7 +2,7 @@
   link: github.com/idealo/image-quality-assessment
   github: idealo/image-quality-assessment
   description: | # this will include new lines to allow paragraphs
-    The goal was to automate the gallery service for hotel offers on [hotel.idealo.de](hotel.idealo.de). We annotated our own hotel dataset and trained CNNs to predict the aesthetic and technical quality of hotel images. The model was put into production and we scored 300+ million images.
+    The goal was to automate the gallery service for hotel offers on [hotel.idealo.de](https://hotel.idealo.de). We annotated our own hotel dataset and trained CNNs to predict the aesthetic and technical quality of hotel images. The model was put into production and we scored 300+ million images.
 
     I wrote about this project in more detail on [Medium](https://medium.com/idealo-tech-blog/using-deep-learning-to-automatically-rank-millions-of-hotel-images-c7e2d2e5cae2) and the [NVIDIA Developer Blog](https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/).
 
