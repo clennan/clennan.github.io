@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Christopher Lennan
-title: Senior Data Scientist
+title: Machine Learning Engineer
 email: christopher.lennan@gmail.com
 website: clennan.github.io
 
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am part of the data science team at [idealo.de](https://idealo.de) where we work on machine learning projects covering computer vision, natural language processing, and prediction models for tabular data. In previous positions I applied machine learning methods to text, fMRI, and financial data.
 
-  My educational background is in statistics and I had a fairly theoretical introduction to machine learning. Over the last four years I have gained practical experience by implementing multiple machine learning solutions in business environments. My main programming language is Python, but I have used Matlab, Javascript, and c++ in previous projects.
+  My educational background is in statistics and I had a fairly theoretical introduction to machine learning. Over the last four years I have gained practical experience by implementing multiple machine learning solutions in business environments. My main programming language is Python, I am a fan of Scala, and have used Matlab and Javascript in previous projects.
 
 
 # Projects Section
