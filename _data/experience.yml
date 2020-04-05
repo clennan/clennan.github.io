@@ -1,9 +1,9 @@
 - company: idealo Internet GmbH
   link: idealo.de
-  job_title: Senior Data Scientist
+  job_title: Machine Learning Engineer
   dates: May 2018 - Present
   description: |
-    The centrally organized Data Science team at idealo.de designs and productionizes machine learning solutions for product areas across the company. I have led the following projects
+    The centrally organized Machine Learning team at idealo.de designs and productionizes machine learning solutions for product areas across the company. I have led the following projects
     * Automate the gallery service for hotel offers on [hotel.idealo.de](hotel.idealo.de). We annotated our own hotel dataset and trained CNNs to predict the aesthetic and technical quality of hotel images. The model was put into production and we scored 300+ million images. We open sourced the code and trained models on [Github](https://github.com/idealo/image-quality-assessment).
     * For the product discovery department we trained image classification models to automate the composition of product galleries for new products. In order to scale model training to hundreds of product categories we designed an image classification software package that allows to train a model with one line of code. The package includes data preparation, training (including cloud GPU training), and evaluation components such that any software developer at idealo can train and evaluate their own models. We open sourced the package under Image-ATM on [Github](https://github.com/idealo/imageatm).
     * For the customer relationship department we trained tree based models to predict whether a user made a purchase or not (after a leadout). We used Apache Airflow to generate overnight predictions that allow to target certain users the next day.

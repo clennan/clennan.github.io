@@ -1,3 +1,11 @@
+- name: Image Deduplicator
+  link: github.com/idealo/imagededup
+  github: idealo/imagededup
+  description: | # this will include new lines to allow paragraphs
+    This package includes various hashing algorithms that are particularly good at finding exact duplicates, and Convolutional Neural Networks which perform well for finding near duplicates. 
+    We also provide an evaluation framework that allows to measure deduplication quality for a given dataset.
+
+
 - name: Image Quality Assessment
   link: github.com/idealo/image-quality-assessment
   github: idealo/image-quality-assessment
@@ -11,7 +19,7 @@
   link: github.com/idealo/imageatm
   github: idealo/imageatm
   description: | # this will include new lines to allow paragraphs
-    Image-ATM (Automated Tagging Machine) allows anyone to train an image classification CNN with one line of code. The package includes classes for data preparation, training, and evaluation. It also automates training in the cloud on GPU instances.
+    Image-ATM (Automated Tagging Machine) allows anyone to train an image classification CNN with one line of code. The package includes data preparation, training, and evaluation. It also automates training in the cloud on GPU instances and comes with a command line client.
 
     We used Terraform in the background to handle cloud setup and destruction. For further details and examples see the project [documentation](https://idealo.github.io/imageatm/).
 
@@ -21,7 +29,7 @@
   github: clennan/image-captioning
   description: |
    For  my  master thesis I implemented an image captioning neural network ([paper](https://arxiv.org/abs/1502.03044)) and visualized the attention maps with Deep Taylor Decomposition (DTD) to gain a better understanding of the inner workings of the system.
-   The encoder (pre-trained CNN), decoder (RNN with LSTM cells), attention mechanism, and DTD modules are build in Python/TensorFlow.
+   The encoder (pre-trained CNN), decoder (RNN with LSTM cells), attention mechanism, and DTD modules were built with TensorFlow.
 
 
 - name: CNN-exposed
