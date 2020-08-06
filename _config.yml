@@ -24,19 +24,29 @@ linkedin_username: christopher-lennan
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   I am part of the Machine Learning Engineering team at [idealo.de](www.idealo.de) where we work on machine learning projects covering computer vision, natural language processing, and prediction models for tabular data. In previous positions I applied machine learning methods to text, fMRI, and financial data.
+   I am part of the Machine Learning Engineering team at [idealo.de](www.idealo.de) where we work on 
+   machine learning projects covering computer vision, natural language processing, and prediction 
+   models based on tabular data. In previous positions I applied machine learning methods to text, fMRI, 
+   and financial data.
 
-   My educational background is in statistics and I had a fairly theoretical introduction to machine learning. Over the last five years I have gained practical experience by implementing multiple machine learning solutions in business environments. I am proficient in Python and becoming better at Scala.
+   My educational background is in statistics and I had a fairly theoretical introduction to machine 
+   learning. Over the last six years I have gained practical experience by implementing multiple 
+   machine learning solutions in business environments. 
+   
+   I am proficient in Python, becoming better at Scala, and have worked with the following 
+   technologies/frameworks/providers
+
+   Apache Airflow/Kafka/Spark, AWS, Docker, Jenkins, Kubernetes, scikit-learn, SQL, TensorFlow.
 
 
 # Projects Section
-# projects_title: Projects
+projects_title: Open-source projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 more_title: Talks

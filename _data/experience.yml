@@ -3,8 +3,18 @@
   job_title: Team Lead Machine Learning Engineering
   dates: September 2019 - Present
   description: |
-    Within six months I have hired four high quality Machine Learning Engineers
-
+    Within six months I have hired four Machine Learning Engineers and established an agile engineering
+    team. We have worked on the following projects:
+    * Offer category classification model that handles 2000+ categories and produces 40+ million 
+      predictions per day. We have extensively optimized inference speed down to 2ms per offer, 
+      auto-scaled the deployment on internal Kubernetes cluster, monitoring and alerting through Grafana,
+      CI/CD in Jenkins. The new system significantly improved categorisation accuracy.
+    * Anomaly detection system to detect shifts in KPIs. The system was adopted by major engineering team 
+      and provides real-time alerting system for idealo's direct purchase KPIs.
+    * Image classifier deployment toolbox that allows to easily and efficiently deploy CNNs on internal
+      Kubernetes cluster. The system consists of a webserver, Redis queue, and modelservers. The webserver 
+      uses the FastAPI framework and the modelservers support TensorFlow models. Integrates well with our 
+      Image-ATM package.
 
 - company: idealo Internet GmbH
   link: idealo.de
@@ -23,8 +33,7 @@
       classification software package that allows to train 
       a model with a single line of code. The package includes data preparation, training (including cloud 
       GPU training), and evaluation components such that any software developer at idealo can train and 
-      evaluate their own models. We open sourced the package under Image-ATM on 
-      [Github](https://github.com/idealo/imageatm). 
+      evaluate their own models. We open sourced the package under [Image-ATM](https://github.com/idealo/imageatm).
     * For the customer relationship department we trained tree based models to predict whether a user 
       made a purchase or not (after a leadout). Targeting customers based on these predictions led to 
       a significant increase in revenues.
