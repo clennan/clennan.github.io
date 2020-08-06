@@ -33,17 +33,21 @@ about_content: | # this will include new lines to allow paragraphs
    learning. Over the last six years I have gained practical experience by implementing multiple 
    machine learning solutions in business environments. 
    
-   I am proficient in Python, becoming better at Scala, and have worked with the following 
-   technologies/frameworks/providers
+   I am proficient in *Python*, becoming better at *Scala*, and have worked with the following 
+   technologies/frameworks/providers: *Apache Airflow/Kafka/Spark*, *AWS*, *Docker*, *Jenkins*, *Kubernetes*, 
+   *scikit-learn*, *SQL*, *TensorFlow*.
 
-   Apache Airflow/Kafka/Spark, AWS, Docker, Jenkins, Kubernetes, scikit-learn, SQL, TensorFlow.
+   The sharing and inclusive character of the ML community is a major motivation for me to work 
+   in this industry and I contribute by open sourcing projects, giving 
+   talks at conferences, hosting meetups, and giving a course at a digital integration school. 
 
 
-# Projects Section
-projects_title: Open-source projects
 
 # Experience Section
 experience_title: Experience
+
+# Projects Section
+projects_title: Open-source projects
 
 # Education Section
 educaton_title: Education
