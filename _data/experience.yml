@@ -1,13 +1,33 @@
 - company: idealo Internet GmbH
   link: idealo.de
-  job_title: Machine Learning Engineer
-  dates: May 2018 - Present
+  job_title: Team Lead Machine Learning Engineering
+  dates: September 2019 - Present
   description: |
-    The centrally organized Machine Learning team at idealo.de designs and productionizes machine learning solutions for product areas across the company. I have led the following projects
-    * Automate the gallery service for hotel offers on [hotel.idealo.de](hotel.idealo.de). We annotated our own hotel dataset and trained CNNs to predict the aesthetic and technical quality of hotel images. The model was put into production and we scored 300+ million images. We open sourced the code and trained models on [Github](https://github.com/idealo/image-quality-assessment).
+    Within six months I have hired four high quality Machine Learning Engineers
 
-    * For the product discovery department we trained image classification models to automate the composition of product galleries for new products. In order to scale model training to hundreds of product categories we designed an image classification software package that allows to train a model with one line of code. The package includes data preparation, training (including cloud GPU training), and evaluation components such that any software developer at idealo can train and evaluate their own models. We open sourced the package under Image-ATM on [Github](https://github.com/idealo/imageatm).
-    * For the customer relationship department we trained tree based models to predict whether a user made a purchase or not (after a leadout). We used Apache Airflow to generate overnight predictions that allow to target certain users the next day.
+
+- company: idealo Internet GmbH
+  link: idealo.de
+  job_title: Machine Learning Engineer
+  dates: May 2018 - August 2019
+  description: |
+    The centrally organized Machine Learning team at idealo.de designs and productionizes machine learning 
+    solutions for product areas across the company. I have led the following projects
+    * Automate the gallery service for hotel offers on [hotel.idealo.de](hotel.idealo.de). We annotated 
+      our own hotel dataset and trained CNNs to predict the aesthetic and technical quality of hotel 
+      images. The model was put into production and we scored 300+ million images. We open sourced the 
+      code and trained models on [Github](https://github.com/idealo/image-quality-assessment).
+    * For the product discovery department we trained image classification models to automate the 
+      composition of product galleries for new products which reduced their workflow time by 75%. 
+      In order to scale model training to hundreds of product categories we designed an image 
+      classification software package that allows to train 
+      a model with a single line of code. The package includes data preparation, training (including cloud 
+      GPU training), and evaluation components such that any software developer at idealo can train and 
+      evaluate their own models. We open sourced the package under Image-ATM on 
+      [Github](https://github.com/idealo/imageatm). 
+    * For the customer relationship department we trained tree based models to predict whether a user 
+      made a purchase or not (after a leadout). Targeting customers based on these predictions led to 
+      a significant increase in revenues.
 
     Besides the development of machine learning solutions my tasks included
     * Transfer machine learning knowledge to other product areas.
@@ -20,12 +40,19 @@
   job_title: Machine Learning Engineer
   dates: Nov 2016 - Apr 2018
   description: |
-    We built a chatbot that allows to search and buy fashion products in a natural conversation setup, it is available on [Facebook messenger](https://m.me/ChatShopper).
-     The bot won a best e-commerce award ([source](https://blog.botmakers.net/1st-chatbottle-awards-winners-are-instalocate-meekan-foxsy-bff-trump-chatshopper-techcrunch-508006f698fc)) and I was responsible for the following projects
-    * Migrate NLP system from wit.ai to our own system. The pipeline included a tokenizer, POS-tagger, NER, synonym matcher, and intent classifier, using Spacy and Rasa as a basis for most elements. We experimented extensively with SVM and RNN intent classifiers, as well as RNN and CRF models for NER. I built a testing environment to automate performance tests of newly trained models.
+    We built a chatbot that allows to search and buy fashion products in a natural conversation setup, 
+    it is available on [Facebook messenger](https://m.me/ChatShopper).
+    The bot won a best e-commerce award ([source](https://blog.botmakers.net/1st-chatbottle-awards-winners-are-instalocate-meekan-foxsy-bff-trump-chatshopper-techcrunch-508006f698fc)) 
+    and I was responsible for the following projects
+    * Migrate NLP system from wit.ai to our own system. The pipeline included a tokenizer, POS-tagger, NER, 
+      synonym matcher, and intent classifier, using Spacy and Rasa as a basis for most elements. We 
+      experimented extensively with SVM and RNN intent classifiers, as well as RNN and CRF models for NER. 
+      I built a testing environment to automate performance tests of newly trained models.
     * To enhance the chatbot experience we built a knowledge graph in neo4j. All graph import and
-    update scripts were written in Python. The bot backend was written in JavaScript.
-    * To enrich the fashion datasets I trained several image classification models in Python/TensorFlow. The priority was to build small networks with fast processing times. All models were trained and deployed in Google Cloud using the ML- and App-Engine.
+      update scripts were written in Python. The bot backend was written in JavaScript.
+    * To enrich the fashion datasets I trained several image classification models in Python/TensorFlow. 
+      The priority was to build small networks with fast processing times. All models were trained and 
+      deployed in Google Cloud using the ML- and App-Engine.
 
 
 - company: Max Planck Institute for Human Development
@@ -33,9 +60,12 @@
   job_title: Research assistant
   dates: Mar 2015 - Oct 2016
   description: |
-    I was the software and machine learning assistant for two reserachers at the institute. Besides writing scripts for automation and descriptive data analyses I mainly trained machine learning models to predict cognitive states from voxel activations. This included
+    I was the software and machine learning assistant for two reserachers at the institute. Besides 
+    writing scripts for automation and descriptive data analyses I mainly trained machine learning 
+    models to predict cognitive states from voxel activations. This included
     * Classifying fMRI data with SVMs using scikit-learn, PyMVPA, and libsvm.
-    * Extensive experiments with CNNs and convolutional autoencoders for classifications and functional alignment of fMRI datasets using Python/TensorFlow.
+    * Extensive experiments with CNNs and convolutional autoencoders for classifications and functional 
+      alignment of fMRI datasets using Python/TensorFlow.
 
 
 - company: Standard and Poor's
