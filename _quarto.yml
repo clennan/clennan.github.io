@@ -5,13 +5,18 @@ website:
   title: "Christopher Lennan"
   navbar:
     right:
-      - about.qmd
+      - text: About
+        href: index.html
+      - blog.qmd
+      - talks.qmd
       - icon: github
         href: https://github.com/clennan
       - icon: twitter
         href: https://twitter.com/chris_lennan
       - icon: linkedin
         href: https://linkedin.com/in/christopher-lennan/
+      - icon: strava
+        href: https://www.strava.com/athletes/24274156
 format:
   html:
     theme: cosmo
