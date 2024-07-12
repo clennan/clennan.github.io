@@ -1,1 +1,1 @@
-Sitemap: https://github.com/clennan/clennan.github.io/sitemap.xml
+Sitemap: https://clennan.github.io/sitemap.xml
