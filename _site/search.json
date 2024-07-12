@@ -16,9 +16,9 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Embeddings primer",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "[]](multimodal.png)"
   },
   {
     "objectID": "index.html",
@@ -60,6 +60,13 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Embeddings primer\n\n\n\n\n\n\n\nembeddings\n\n\n\n\n\n\n\n\n\n\n\nNov 8, 2023\n\n\nChristopher Lennan\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#motivation",
+    "href": "posts/post-with-code/index.html#motivation",
+    "title": "Embeddings primer",
+    "section": "Motivation",
+    "text": "Motivation\nEmbeddings have never been more en vogue - they are the core of Multimodal AI that fuses together the vision, speech, and text domains. The most prominent example is probably the recent OpenAI announcement that ChatGPT can now see, hear, and speak.\nAn embedding is a compressed, dense representation of the raw data, be it text, images, or sound. This is in contrast to a sparse vector representation like, e.g., TF-IDF for text data. Dense embeddings are usually not beyond 2k dimensions, whereas sparse embeddings tend to be much higher dimensional. Dense embeddings thus offer a more efficient downstream processing.\n\n\n\n\n                                                \n\n\nFigure: MNIST 3D"
   }
 ]

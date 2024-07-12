@@ -23,13 +23,4 @@ I'm Christopher, it's great to see you here!
 
 I am currently a Lead Machine Learning Engineer at idealo, a leading E-commerce websites in Germany. 
 
-I regularly write about Machine Learning and Data on my [Blog](./blog.html).
-
-My contributions to open-source projects can be found under [Projects](./projects)
-and conference presentations are collected on the [Talks](./talks) page.
-
-### On a personal note
-- father to Mika and Jona, husband to Saskia ❤️❤️❤️  
-- we are based in beautiful Berlin, Germany 🐻  
-- love cycling and exploring on my road bikes 🚴🏼  
-- believer in [Waldorf education](https://en.wikipedia.org/wiki/Waldorf_education) 🪵
+More to come ...

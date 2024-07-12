@@ -1,9 +1,62 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2023-11-06"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Embeddings primer"
+author: "Christopher Lennan"
+date: "2023-11-08"
+categories: [embeddings]
+format: html
 ---
 
-This is a post with executable code.
+![](multimodal.png)
+
+## Motivation
+Embeddings have never been more en vogue - they are the core of **Multimodal AI** that 
+fuses together the vision, speech, and text domains. The most prominent example is
+probably the recent OpenAI announcement that <a href="https://openai.com/blog/chatgpt-can-now-see-hear-and-speak" style="text-decoration: none;">**ChatGPT can now see, hear, and speak**</a>.
+
+An embedding is a compressed, dense representation of the raw data, be it text, images, or 
+sound. This is in contrast to a sparse vector representation like, e.g., TF-IDF for text data.
+Dense embeddings are usually not beyond 2k dimensions, whereas sparse embeddings tend to be
+much higher dimensional. Dense embeddings thus offer a more efficient downstream processing.
+
+
+<div style="text-align: center;">
+```{python}
+#| label: mnist-3d
+#| echo: false
+import pandas as pd
+import plotly.express as px
+
+embeddings = pd.read_csv('embeddings.csv')
+
+ax_style = dict(
+    showbackground=False,
+    backgroundcolor="rgb(10, 10, 10)",
+    showgrid=True,
+    gridcolor="lightgray",
+    zeroline=True,
+    zerolinecolor="black",
+    )
+fig = px.scatter_3d(
+    embeddings.sample(1000),
+    x='x',
+    y='y', 
+    z='z', 
+    color='label',
+    color_discrete_sequence= px.colors.sequential.Plasma_r,
+    )
+fig.update_layout(scene=dict(xaxis=ax_style, yaxis=ax_style, zaxis=ax_style))
+fig.update(layout_coloraxis_showscale=False)
+fig.update_traces(
+    marker=dict(
+        size=6,
+        line=dict(
+            width=2,
+            color='DarkSlateGrey',
+            ),
+        ),
+    selector=dict(mode='markers'),
+)
+fig.show(config={'displayModeBar': False})
+```
+Figure: MNIST 3D 
+</div>
